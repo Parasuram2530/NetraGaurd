@@ -1,0 +1,7 @@
+{
+    "cameras":[
+        {"id": "Cam1", "url": "0"},
+        {"id": "Cam2", "url": "video_files/cam2.mp4"},
+        {"id": "Cam3", "url": "rtsp://username:pass@ip:port"}
+    ]
+}

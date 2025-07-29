@@ -1,0 +1,8 @@
+__pycache__
+video_files
+firebase-key.json
+sentra.Modelfile
+yolov8n.pt
+yolov8s.pt
+alerts_log.txt
+.env

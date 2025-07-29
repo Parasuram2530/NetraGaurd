@@ -1,0 +1,10 @@
+opencv-python
+ultralytics
+streamlit
+pyttsx3
+firebase-admin
+google-generativeai
+Pillow
+numpy
+matplotlib
+requests
